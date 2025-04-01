@@ -35,13 +35,13 @@ A lógica principal foi baseada no vídeo do canal [**Ivan Rodrigues no YouTube*
 
 ### Resultado de uma multiplicação (3 × 5)
 
-![Multiplicação](print1.PNG)
+![Multiplicação](screenshots/print1.PNG)
 
 ---
 
 ### Tentativa de divisão por zero (erro tratado)
 
-![Divisão por zero](print2.PNG)
+![Divisão por zero](screenshots/print2.PNG)
 
 ---
 
